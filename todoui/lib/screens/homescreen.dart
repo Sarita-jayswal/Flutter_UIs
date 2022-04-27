@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:todoui/screens/monthlyreviewscreen.dart';
 
@@ -31,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 style: TextStyle(
                     color: Colors.deepPurpleAccent,
                     fontSize: 30,
-                    fontWeight: FontWeight.bold),
+                    fontWeight: FontWeight.normal),
                 textAlign: TextAlign.justify,
                 maxLines: 2,
                 //overflow: TextOverflow.ellipsis,
